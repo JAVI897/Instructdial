@@ -1,6 +1,1 @@
-{
-  "input": "[CONTEXT] How may I help you? [ENDOFTURN] I left a suitcase on the train to London the other day. [ENDOFDIALOGUE] [QUESTION] A response with the provided context is",
-  "prompt": "Instruction: Consider the context of the conversation and a document and generate an answer accordingly \nInput: [CONTEXT] How may I help you? [ENDOFTURN] I left a suitcase on the train to London the other day. [ENDOFDIALOGUE] [QUESTION] A response with the provided context is",
-  "task": "persuasion_generation",
-  "index": 0
-}
+{"input": "[CONTEXT] How may I help you? [ENDOFTURN] I left a suitcase on the train to London the other day. [ENDOFDIALOGUE] [QUESTION] A response with the provided context is", "prompt": "Instruction: Consider the context of the conversation and a document and generate an answer accordingly \nInput: [CONTEXT] How may I help you? [ENDOFTURN] I left a suitcase on the train to London the other day. [ENDOFDIALOGUE] [QUESTION] A response with the provided context is", "task": "persuasion_generation", "index": 0}
